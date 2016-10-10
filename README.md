@@ -17,7 +17,7 @@ http://www.marlonfalcon.cl
 [//]: # (addons)
 Resumen de los módulos
 ---------------
-addon | version | summary
+Módulo | version | Resumen
 --- | --- | ---
 [mass_editing](mass_editing/) | - | Edición en masa en Odoo
 [web_hide_db_manager_link](web_hide_db_manager_link/) | - | Ocultar administrar base de datos en el login de Odoo
