@@ -25,6 +25,6 @@ addon | version | summary
 
 Mis Datos
 ---------------
-Nombre: Marlon Falcón Hernández
-Mail: falconsoft.3d@gmail.com
-Cel: +56 9 4299 4534
+* Nombre: Marlon Falcón Hernández
+* Mail: falconsoft.3d@gmail.com
+* Cel: +56 9 4299 4534
