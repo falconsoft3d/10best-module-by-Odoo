@@ -21,6 +21,6 @@ Unported addons
 ---------------
 addon | version | summary
 --- | --- | ---
-[account_balance_reporting](account_balance_reporting/) | 8.0.0.3.0 (unported) | Account balance reporting engine
-[account_balance_reporting_xls](account_balance_reporting_xls/) | 8.0.1.0.0 (unported) | Account balance reporting to XLS
+[mass_editing](mass_editing/) | - | Edición en masa en Odoo
+[web_hide_db_manager_link](web_hide_db_manager_link/) | - | Ocultar administrar base de datos en el login de Odoo
 [//]: # (end add)
