@@ -22,3 +22,9 @@ addon | version | summary
 [mass_editing](mass_editing/) | - | Edición en masa en Odoo
 [web_hide_db_manager_link](web_hide_db_manager_link/) | - | Ocultar administrar base de datos en el login de Odoo
 [//]: # (end add)
+
+Mis Datos
+---------------
+Nombre: Marlon Falcón Hernández
+Mail: falconsoft.3d@gmail.com
+Cel: +56 9 4299 4534
