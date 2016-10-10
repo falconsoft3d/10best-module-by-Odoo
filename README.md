@@ -15,7 +15,7 @@ http://www.marlonfalcon.cl
 
 
 [//]: # (addons)
-Unported addons
+Resumen de los módulos
 ---------------
 addon | version | summary
 --- | --- | ---
