@@ -1,12 +1,12 @@
 ﻿# 10best-module-by-odoo
 
-10 de los mejores módulo de Odoo
-=============================
+Resumen de los 10 mejores módulos de Odoo v9
+============================================
 
 Repositorio de código del proyecto de los mejores módulos que he encontrado para Odoo
 
 
-* Estos modulos son desarrollados por diferentes programadores
+* Estos módulos son desarrollados por diferentes programadores
 * Traducciones a las lenguas oficiales del país.
 
 Para más información, dirigirse al portal http://www.marlonfalcon.cl
