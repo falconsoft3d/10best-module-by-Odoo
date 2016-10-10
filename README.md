@@ -1,6 +1,4 @@
-﻿# 10best-module-by-odoo
-
-Resumen de los 10 mejores módulos de Odoo v9
+﻿Resumen de los 10 mejores módulos de Odoo v9
 ============================================
 
 Repositorio de código del proyecto de los mejores módulos que he encontrado para Odoo
